@@ -1,0 +1,89 @@
+body{
+	text-align: center;
+}
+
+.arriba{
+	/*background-color: yellow*/
+	width: 44.4em; 
+    height: 0em;
+    margin-left: 25em;
+    border: 0.1em solid black;
+    padding: 2em;
+    background-color: #ffc107;
+    text-align: center;
+   /* margin-top: 3em;*/
+}
+
+.arriba h2{
+	margin-top: -0.5em;
+
+}
+
+.izquierda{
+	width: 10em; 
+    height: 20em;
+	border: 0.1em solid black;
+	float: left;
+	padding: 3em;
+	margin-left: 25em;
+	/*overflow: auto;
+	clear: both;*/
+	
+}
+
+.centro{
+	width: 10em; 
+    height: 20em;
+	border: 0.1em solid black;
+	background-color: blank
+	border: 0.1em solid black;
+	padding: 3em;
+	float: left;
+	display: inline-block;
+	/*clear: both;
+	overflow: auto;
+*/
+	
+}
+
+.derecho{
+	width: 10em; 
+    height: 20em;
+	border: 0.1em solid black;
+    float: left;
+    padding: 3em;
+    /*overflow: auto;
+    clear: both;*/
+    display: inline-block;
+    
+}
+
+.abajo{
+	width: 44.4em; 
+    height: -3em;
+    margin-left: 14.3em;
+    /*margin-top: 0em;*/
+    background-color: #ffc107;
+    border: 0.1em solid black;
+    padding: 2em;
+    display: inline-block;
+}
+
+/*width: 44.4em; 
+    height: 0em;
+    margin-left: 25em;
+    border: 0.1em solid black;
+    padding: 2em;
+    background-color: #ffc107;*/
+
+.imagen1{
+	width: 6em; 
+    height: 6em;
+    float: inherit;
+}
+
+.imagen2{
+	width: 6em; 
+    height: 6em;
+    float: inherit;
+}
